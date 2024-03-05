@@ -1,0 +1,15 @@
+C:\Users\Damla\source\repos\trex_deneme\trex_deneme\bin\Debug\trex_deneme.exe.config
+C:\Users\Damla\source\repos\trex_deneme\trex_deneme\bin\Debug\trex_deneme.exe
+C:\Users\Damla\source\repos\trex_deneme\trex_deneme\bin\Debug\trex_deneme.pdb
+C:\Users\Damla\source\repos\trex_deneme\trex_deneme\obj\Debug\trex_deneme.csproj.AssemblyReference.cache
+C:\Users\Damla\source\repos\trex_deneme\trex_deneme\obj\Debug\trex_deneme.Form1.resources
+C:\Users\Damla\source\repos\trex_deneme\trex_deneme\obj\Debug\trex_deneme.Properties.Resources.resources
+C:\Users\Damla\source\repos\trex_deneme\trex_deneme\obj\Debug\trex_deneme.UI.ButtonNotifications.resources
+C:\Users\Damla\source\repos\trex_deneme\trex_deneme\obj\Debug\trex_deneme.csproj.GenerateResource.cache
+C:\Users\Damla\source\repos\trex_deneme\trex_deneme\obj\Debug\trex_deneme.csproj.CoreCompileInputs.cache
+C:\Users\Damla\source\repos\trex_deneme\trex_deneme\obj\Debug\trex_deneme.exe
+C:\Users\Damla\source\repos\trex_deneme\trex_deneme\obj\Debug\trex_deneme.pdb
+C:\Users\Damla\source\repos\trex_deneme\trex_deneme\obj\Debug\trex_deneme.UI.labelCrcle.resources
+C:\Users\Damla\source\repos\trex_deneme\trex_deneme\obj\Debug\trex_deneme.UI.SysButton.resources
+C:\Users\Damla\source\repos\trex_deneme\trex_deneme\obj\Debug\trex_deneme.UI.FloatingButton.resources
+C:\Users\Damla\source\repos\trex_deneme\trex_deneme\obj\Debug\trex_deneme.ButtonOperations.resources
